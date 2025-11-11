@@ -386,7 +386,8 @@ deleteAfter(L, 2, removed) menghapus node setelah ID 2 -> yaitu ID 3.
 
 Berikut adalah hasil eksekusi program (output) ketika dijalankan.
 
-![alt text](image-1.png)
+<img width="759" height="779" alt="image" src="https://github.com/user-attachments/assets/0373a895-55bd-4e41-9f4e-5f292c0f4462" />
+
 A. Setelah penyisipan terurut (ID 1–4)
 
 Ditampilkan oleh:
